@@ -1,0 +1,1 @@
+# staticapp.github.io
